@@ -2,10 +2,40 @@
   .curso-main-container.pb-3
     BannerInterno
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-      .titulo-principal.color-acento-contenido
+      .titulo-principal.color-acento-contenido(data-aos="flip-up")
         .titulo-principal__numero
           span 2
-        h1 Titulo de primer nivel
+        h1 Planeación estratégica y roles del proceso
+
+
+      
+      Separador
+      #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 2.1 Fases metodológicas del ciclo de vigilancia
+
+
+
+        
+      Separador
+      #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 2.2 Identificación y asignación de recursos y elaboración del cronograma
+
+
+
+      Separador
+      #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 2.3 Roles y responsabilidades en el equipo de vigilancia
+
+
+
+
+      Separador
+      #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 2.4 Delimitación del alcance y priorización de la temática de estudio
+
+
+
+
 
 </template>
 
