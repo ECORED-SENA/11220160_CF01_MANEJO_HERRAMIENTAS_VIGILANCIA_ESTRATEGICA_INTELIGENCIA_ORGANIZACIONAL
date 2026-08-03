@@ -38,7 +38,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Bases de datos de patentes
-                  p.mb-0 Constituyen una fuente fundamental para la vigilancia tecnológica. Plataformas como #[i Espacenet] (Oficina Europea de Patentes), #[i WIPO PATENTSCOPE] (Organización Mundial de la Propiedad Intelectual) o la base de datos de la SIC en Colombia (<a href="https://sipi.sic.gov.co/sipi/Extra" target="_blank" class="link___1">https://sipi.sic.gov.co/sipi/Extra</a>), albergan la información técnica más avanzada del mundo. Su utilidad es invaluable, ya que la legislación obliga a los inventores a describir detalladamente el funcionamiento de sus innovaciones para obtener protección, lo que las convierte en una fuente de inteligencia tecnológica predictiva inigualable.
+                  p.mb-0 Constituyen una fuente fundamental para la vigilancia tecnológica. Plataformas como #[i Espacenet] (Oficina Europea de Patentes), #[i WIPO PATENTSCOPE] (Organización Mundial de la Propiedad Intelectual) o la base de datos de la SIC en Colombia (<a href="https://sipi.sic.gov.co/sipi/Extra" target="_blank" class="link___1">https://sipi.sic.gov.co/sipi/Extra</a>) albergan la información técnica más avanzada del mundo. Su utilidad es invaluable, ya que la legislación obliga a los inventores a describir detalladamente el funcionamiento de sus innovaciones para obtener protección, lo que las convierte en una fuente de inteligencia tecnológica predictiva inigualable.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t3/img4.png', alt='' style="max-width: 500px").m-auto
@@ -218,7 +218,7 @@
                 .col-xl-5.col-md-9
                   figure
                     img(src='@/assets/curso/temas/t3/img21.png', alt='' style="width: 350px")
-        p.mb-0 Gracias al estricto apego al método y la correcta selección de las fuentes de información, Bio AndinaTech S.A. logra acceder legalmente al estado del arte tecnológico mundial, preparándose para actualizar su línea de producción mitigando los riesgos financieros y técnicos.
+        p.mb-0 Gracias al estricto apego al método y la correcta selección de las fuentes de información, Bio AndinaTech S.A. logra acceder legalmente al estado del arte tecnológico mundial, preparándose para actualizar su línea de producción, mitigando los riesgos financieros y técnicos.
 
 </template>
 

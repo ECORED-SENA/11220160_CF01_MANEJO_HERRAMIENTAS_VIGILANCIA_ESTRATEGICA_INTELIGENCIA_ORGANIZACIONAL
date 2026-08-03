@@ -17,14 +17,14 @@
         .px-5
           #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
             h2 2.1 Fases metodológicas del ciclo de vigilancia
-          p.mb-5 La vigilancia e inteligencia organizacional se desarrolla mediante el Ciclo de inteligencia, un modelo iterativo que transforma datos dispersos en decisiones y reconoce la búsqueda como una etapa del proceso. Este ciclo, avalado por normativas de gestión de la innovación, se compone generalmente de cinco fases interdependientes:
+          p.mb-5 La vigilancia e inteligencia organizacional se desarrolla mediante el ciclo de inteligencia, un modelo iterativo que transforma datos dispersos en decisiones y reconoce la búsqueda como una etapa del proceso. Este ciclo, avalado por normativas de gestión de la innovación, se compone generalmente de cinco fases interdependientes:
           .row.justify-content-center.mb-0
             .col-lg-10
               PasosA.color-acento-contenido(tipo="l").mb-3
                 .row.align-items-center
                   .col-lg.mb-4.mb-lg-0
                     h3 Planeación y dirección
-                    p.mb-0 Constituye la fase cero. Aquí se identifican las necesidades (Factores críticos de vigilancia), se establecen los objetivos, se asignan los recursos y se definen los entregables esperados.
+                    p.mb-0 Constituye la fase cero. Aquí se identifican las necesidades (factores críticos de vigilancia), se establecen los objetivos, se asignan los recursos y se definen los entregables esperados.
                   .col-auto(data-aos="zoom-in")
                     figure
                       img(src='@/assets/curso/temas/t2/img2.png', alt='' style="width: 300px").m-auto
