@@ -209,7 +209,7 @@
 </template>
 
 <script>
-import audio1 from '@/assets/curso/temas/t2/audios/audio-ej.mp3'
+import audio1 from '@/assets/curso/temas/t2/audios/Tres_roles_decision_equipo_detras_vigilancia_estrategica.mp3'
 export default {
   name: 'Tema2',
   data: () => ({
