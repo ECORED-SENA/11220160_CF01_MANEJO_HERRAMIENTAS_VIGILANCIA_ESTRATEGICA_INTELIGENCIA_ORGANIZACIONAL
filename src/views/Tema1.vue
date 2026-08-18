@@ -167,13 +167,13 @@
           .col-xl-10
             AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in")
               .row(titulo="Desde la Vigilancia Tecnológica").ajuste-cajaAcordion.ajuste-vineta
-                p.mb-3 El equipo determina que necesita investigar cuáles son los sistemas de gestión de contenidos (CMS) más eficientes para comercio electrónico. La búsqueda especializada arrojará información sobre arquitecturas basadas en #[i WordPress] con #[i WooCommerce] frente a plataformas en la nube como Shopify, analizando sus vulnerabilidades de seguridad, #[i plugins] de optimización de carga (caché) y consumo de recursos en servidores #[i hosting].
+                p.mb-3 El equipo determina que necesita investigar cuáles son los sistemas de gestión de contenidos (CMS) más eficientes para comercio electrónico. La búsqueda especializada arrojará información sobre arquitecturas basadas en WordPress con WooCommerce frente a plataformas en la nube como Shopify, analizando sus vulnerabilidades de seguridad, #[i plugins] de optimización de carga (caché) y consumo de recursos en servidores #[i hosting].
               .row(titulo="Desde la vigilancia competitiva").ajuste-cajaAcordion.ajuste-vineta
                 p.mb-3 Se rastrean los portales web de las cinco ferreterías más grandes de Colombia. El equipo documenta, mediante fichas técnicas, qué métodos de envío utilizan sus rivales, si cuentan con atención por #[i Chatbots] automatizados y cómo estructuran sus programas de fidelización.
               .row(titulo="Desde la vigilancia Comercial").ajuste-cajaAcordion.ajuste-vineta
                 p.mb-3 Se analizan estudios recientes sobre el comportamiento del consumidor digital de herramientas de construcción en la región, descubriendo una alta tasa de abandono del carrito de compras debido a los altos costos ocultos de envío. Esta información alerta a Central Ferretera sobre la necesidad de integrar una pasarela de pago transparente.
               .row(titulo="Desde la vigilancia del entorno").ajuste-cajaAcordion.ajuste-vineta
-                p.mb-3 El área jurídica alerta sobre la normativa vigente expedida por la DIAN (Dirección de Impuestos y Aduanas Nacionales) respecto a los parámetros obligatorios que debe cumplir todo software de facturación electrónica.
+                p.mb-3 El área jurídica alerta sobre la normativa vigente expedida por la DIAN (Dirección de Impuestos y Aduanas Nacionales) respecto a los parámetros obligatorios que debe cumplir todo #[i software] de facturación electrónica.
         p.mb-0 Una vez recolectada toda esta información de múltiples fuentes, se ejecuta la #[b inteligencia organizacional]. La gerencia integra los datos tecnológicos, comerciales y normativos. Con base en este análisis, decide contratar un desarrollo a la medida en WooCommerce, vinculado con una pasarela de pagos nacional, cálculo de fletes en tiempo real y conexión certificada con la DIAN.
       p.mb-0 Este caso demuestra cómo la vigilancia estratégica evita inversiones sin fundamento y convierte el conocimiento del entorno en un activo para consolidar nuevos modelos de negocio.
 

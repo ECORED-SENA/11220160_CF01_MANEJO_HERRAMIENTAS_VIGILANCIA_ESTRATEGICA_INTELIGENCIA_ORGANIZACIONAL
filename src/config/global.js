@@ -164,7 +164,7 @@ export default {
         'instrumento metodológico que documenta detalladamente las bases de datos, fechas y ecuaciones utilizadas para garantizar la reproducibilidad del proceso.',
     },
     {
-      termino: 'Blockchain',
+      termino: '<i>Blockchain</i>',
       significado:
         'tecnología de registro descentralizado e inmutable que garantiza la trazabilidad, transparencia y seguridad de los datos en transacciones digitales.',
     },
@@ -189,7 +189,7 @@ export default {
         'capacidad de una empresa para procesar y contextualizar la información estratégica, transformándola en decisiones gerenciales con mínimo riesgo.',
     },
     {
-      termino: 'Licencias Creative Commonso',
+      termino: 'Licencias <i>Creative Commons</i>',
       significado:
         'modelos de contratos legales de alcance internacional que otorgan permisos estandarizados para compartir, usar y modificar obras bajo derechos de autor.',
     },
@@ -216,7 +216,7 @@ export default {
     {
       termino: 'Sistemas de Gestión de Contenidos (CMS)',
       significado:
-        'plataforma de software que permite a los usuarios crear, administrar y publicar contenido digital de forma estructurada en entornos web.',
+        'plataforma de <i>software</i> que permite a los usuarios crear, administrar y publicar contenido digital de forma estructurada en entornos web.',
     },
     {
       termino: 'Tesauros',

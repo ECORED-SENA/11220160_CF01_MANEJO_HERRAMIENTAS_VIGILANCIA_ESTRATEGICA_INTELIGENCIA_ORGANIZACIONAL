@@ -182,7 +182,7 @@
           .col-xl-10
             AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in")
               .row(titulo="Planeación y fases").ajuste-cajaAcordion.ajuste-vineta
-                p.mb-3 Determinan que el Factor Crítico de Vigilancia (FCV) no es el cultivo del cacao en sí, sino las "Tecnologías de trazabilidad Blockchain aplicables al agro" y "Nuevos biopolímeros para empaque".
+                p.mb-3 Determinan que el Factor Crítico de Vigilancia (FCV) no es el cultivo del cacao en sí, sino las "Tecnologías de trazabilidad #[i Blockchain] aplicables al agro" y "Nuevos biopolímeros para empaque".
               .row(titulo="Asignación de recursos").ajuste-cajaAcordion.ajuste-vineta
                 p.mb-3 Al ser una cooperativa, los recursos financieros son limitados. El cronograma se traza a ocho semanas. Se presupuesta la compra de dos informes sectoriales europeos (recurso financiero) y se reasignan cinco horas semanales a tres colaboradores (recurso humano).
               .row(titulo="Distribución de roles").ajuste-cajaAcordion.ajuste-vineta

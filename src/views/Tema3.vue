@@ -111,8 +111,8 @@
       p.mb-5 Una búsqueda sin registro puede ocasionar pérdida de información y duplicación de esfuerzos. En el siguiente video, se profundizará en la función de los instrumentos del Sistema PREVIOS y en el momento del proceso en que debe utilizarse cada formato.
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption.fit___figcaption-video Video. Del dato a la decisión: instrumentos del Sistema PREVIOS
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/vFkXHuG4rD8" title="Del dato a la decisión instrumentos del Sistema PREVIOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption.fit___figcaption-video Video. Del dato a la decisión instrumentos del Sistema PREVIOS
       Separador
       #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.4 Introducción a la identificación de palabras clave y criterios de filtrado

@@ -39,6 +39,10 @@
 .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
   flex: 0 0 auto !important
   width: 58.33333333% !important
+  @media screen and (max-width: 1200px)
+    width: 100% !important
+  @media screen and (max-width: 576px)
+    padding: 3rem !important
 
 .banner-principal__row .banner-principal__img
   width: 370px !important
@@ -46,15 +50,6 @@
     width: 370px !important
   @media screen and (min-width: 1400px)
     width: 428px !important
-
-.banner-principal__row
-  padding: 0rem 2rem 0rem 1rem
-  @media screen and (max-width: 1200px)
-    padding: 0rem !important
-
-.banner-principal__info
-  @media screen and (max-width: 576px)
-    padding: 10rem 0rem !important
 
 .banner-interno__titulo__icono i
   color: $color-sistema-texto
